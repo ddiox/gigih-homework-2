@@ -1,0 +1,106 @@
+[{
+  "_id": {
+    "$oid": "64b97ea7e6f7ccc96f6bb1ae"
+  },
+  "name": "Adele",
+  "date_of_birth": "5 Mei 1988",
+  "genres": [
+    "Pop",
+    "Soul"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b97ea7e6f7ccc96f6bb1af"
+  },
+  "name": "Queen",
+  "date_of_birth": "27 Juni 1971",
+  "genres": [
+    "Rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b97ea7e6f7ccc96f6bb1b0"
+  },
+  "name": "John Lennon",
+  "date_of_birth": "9 Oktober 1940",
+  "genres": [
+    "Rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b97ea7e6f7ccc96f6bb1b1"
+  },
+  "name": "Ed Sheeran",
+  "date_of_birth": "17 Februari 1991",
+  "genres": [
+    "Pop",
+    "R&B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b97ea7e6f7ccc96f6bb1b2"
+  },
+  "name": "Michael Jackson",
+  "date_of_birth": "29 Agustus 1958",
+  "genres": [
+    "Pop",
+    "R&B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b97ea7e6f7ccc96f6bb1b3"
+  },
+  "name": "Eagles",
+  "date_of_birth": "28 Januari 1947",
+  "genres": [
+    "Rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b97ea7e6f7ccc96f6bb1b4"
+  },
+  "name": "The Beatles",
+  "date_of_birth": "9 Oktober 1940",
+  "genres": [
+    "Rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b97ea7e6f7ccc96f6bb1b5"
+  },
+  "name": "Mark Ronson",
+  "date_of_birth": "4 September 1975",
+  "genres": [
+    "Funk",
+    "Pop"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b97ea7e6f7ccc96f6bb1b6"
+  },
+  "name": "Bruno Mars",
+  "date_of_birth": "8 Oktober 1985",
+  "genres": [
+    "Pop",
+    "R&B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b97ea7e6f7ccc96f6bb1b7"
+  },
+  "name": "Nirvana",
+  "date_of_birth": "20 Februari 1967",
+  "genres": [
+    "Grunge",
+    "Rock"
+  ]
+}]

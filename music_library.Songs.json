@@ -1,0 +1,174 @@
+[{
+  "_id": {
+    "$oid": "64b97dcce6f7ccc96f6bb1a4"
+  },
+  "title": "Someone Like You",
+  "artists": [
+    {
+      "name": "Adele",
+      "date_of_birth": "5 Mei 1988",
+      "genres": [
+        "Pop",
+        "Soul"
+      ]
+    }
+  ],
+  "album": "21"
+},
+{
+  "_id": {
+    "$oid": "64b97dcce6f7ccc96f6bb1a5"
+  },
+  "title": "Bohemian Rhapsody",
+  "artists": [
+    {
+      "name": "Queen",
+      "date_of_birth": "27 Juni 1971",
+      "genres": [
+        "Rock"
+      ]
+    }
+  ],
+  "album": "A Night at the Opera"
+},
+{
+  "_id": {
+    "$oid": "64b97dcce6f7ccc96f6bb1a6"
+  },
+  "title": "Imagine",
+  "artists": [
+    {
+      "name": "John Lennon",
+      "date_of_birth": "9 Oktober 1940",
+      "genres": [
+        "Rock"
+      ]
+    }
+  ],
+  "album": "Imagine"
+},
+{
+  "_id": {
+    "$oid": "64b97dcce6f7ccc96f6bb1a7"
+  },
+  "title": "Shape of You",
+  "artists": [
+    {
+      "name": "Ed Sheeran",
+      "date_of_birth": "17 Februari 1991",
+      "genres": [
+        "Pop",
+        "R&B"
+      ]
+    }
+  ],
+  "album": "÷"
+},
+{
+  "_id": {
+    "$oid": "64b97dcce6f7ccc96f6bb1a8"
+  },
+  "title": "Billie Jean",
+  "artists": [
+    {
+      "name": "Michael Jackson",
+      "date_of_birth": "29 Agustus 1958",
+      "genres": [
+        "Pop",
+        "R&B"
+      ]
+    }
+  ],
+  "album": "Thriller"
+},
+{
+  "_id": {
+    "$oid": "64b97dcce6f7ccc96f6bb1a9"
+  },
+  "title": "Rolling in the Deep",
+  "artists": [
+    {
+      "name": "Adele",
+      "date_of_birth": "5 Mei 1988",
+      "genres": [
+        "Pop",
+        "Soul"
+      ]
+    }
+  ],
+  "album": "21"
+},
+{
+  "_id": {
+    "$oid": "64b97dcce6f7ccc96f6bb1aa"
+  },
+  "title": "Hotel California",
+  "artists": [
+    {
+      "name": "Eagles",
+      "date_of_birth": "28 Januari 1947",
+      "genres": [
+        "Rock"
+      ]
+    }
+  ],
+  "album": "Hotel California"
+},
+{
+  "_id": {
+    "$oid": "64b97dcce6f7ccc96f6bb1ab"
+  },
+  "title": "I Want to Hold Your Hand",
+  "artists": [
+    {
+      "name": "The Beatles",
+      "date_of_birth": "9 Oktober 1940",
+      "genres": [
+        "Rock"
+      ]
+    }
+  ],
+  "album": "Meet the Beatles!"
+},
+{
+  "_id": {
+    "$oid": "64b97dcce6f7ccc96f6bb1ac"
+  },
+  "title": "Uptown Funk",
+  "artists": [
+    {
+      "name": "Mark Ronson",
+      "date_of_birth": "4 September 1975",
+      "genres": [
+        "Funk",
+        "Pop"
+      ]
+    },
+    {
+      "name": "Bruno Mars",
+      "date_of_birth": "8 Oktober 1985",
+      "genres": [
+        "Pop",
+        "R&B"
+      ]
+    }
+  ],
+  "album": "Uptown Special"
+},
+{
+  "_id": {
+    "$oid": "64b97dcce6f7ccc96f6bb1ad"
+  },
+  "title": "Smells Like Teen Spirit",
+  "artists": [
+    {
+      "name": "Nirvana",
+      "date_of_birth": "20 Februari 1967",
+      "genres": [
+        "Grunge",
+        "Rock"
+      ]
+    }
+  ],
+  "album": "Nevermind"
+}]
